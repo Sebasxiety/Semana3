@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Publicaciones.Presentacion
 {
-    public partial class frmAutoresPorTitulos : Form
+    public partial class FrmTituloSuAutores : Form
     {
-        public frmAutoresPorTitulos()
+        public FrmTituloSuAutores()
         {
             InitializeComponent();
         }

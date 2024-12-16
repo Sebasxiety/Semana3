@@ -16,5 +16,10 @@ namespace Publicaciones.Presentacion
         {
             InitializeComponent();
         }
+
+        private void btnRegalias_Click(object sender, EventArgs e)
+        {
+           new FrmCargo().ShowDialog();
+        }
     }
 }

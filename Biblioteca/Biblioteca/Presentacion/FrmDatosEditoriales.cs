@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace Publicaciones.Presentacion
 {
-    public partial class frmTrabajoDatos : Form
+    public partial class FrmDatosEditoriales : Form
     {
-        public frmTrabajoDatos()
+        public FrmDatosEditoriales()
         {
             InitializeComponent();
-        }
-
-        private void npdCantidadMax_ValueChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void npdCantidadMin_ValueChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }

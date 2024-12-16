@@ -16,5 +16,10 @@ namespace Publicaciones.Presentacion
         {
             InitializeComponent();
         }
+
+        private void btnDatosEditoriales_Click(object sender, EventArgs e)
+        {
+            new FrmDatosEditoriales().ShowDialog();
+        }
     }
 }

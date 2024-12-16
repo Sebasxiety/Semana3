@@ -15,6 +15,7 @@ C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Dela\Semana3\Biblioteca\Biblio
 C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Dela\Semana3\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
 C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Dela\Semana3\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
 C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Dela\Semana3\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
-C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Dela\Semana3\Biblioteca\Biblioteca\obj\Debug\Publicaciones.Presentacion.frmAutoresPorTitulos.resources
-C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Dela\Semana3\Biblioteca\Biblioteca\obj\Debug\Publicaciones.Presentacion.frmConfigEditoriales.resources
-C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Dela\Semana3\Biblioteca\Biblioteca\obj\Debug\Publicaciones.Presentacion.frmTrabajoDatos.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Dela\Semana3\Biblioteca\Biblioteca\obj\Debug\Publicaciones.Presentacion.FrmTituloSuAutores.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Dela\Semana3\Biblioteca\Biblioteca\obj\Debug\Publicaciones.Presentacion.FrmDatosEditoriales.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Dela\Semana3\Biblioteca\Biblioteca\obj\Debug\Publicaciones.Presentacion.FrmCargo.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Dela\Semana3\Biblioteca\Biblioteca\obj\Debug\Biblioteca.frmMenuPrincipal.resources

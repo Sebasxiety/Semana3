@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\semana3\\biblioteca\\biblioteca\\presentacion\\frmautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\presentacion\\frmautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\semana3\\biblioteca\\biblioteca\\presentacion\\frmautoresportitulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\presentacion\\frmautoresportitulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\semana3\\biblioteca\\biblioteca\\presentacion\\frmconfigeditoriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\presentacion\\frmconfigeditoriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\semana3\\biblioteca\\biblioteca\\presentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\presentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\semana3\\biblioteca\\biblioteca\\presentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\presentacion\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\semana3\\biblioteca\\biblioteca\\presentacion\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\presentacion\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\semana3\\biblioteca\\biblioteca\\presentacion\\frmeditoriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\presentacion\\frmeditoriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\semana3\\biblioteca\\biblioteca\\presentacion\\frmeditoriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\presentacion\\frmeditoriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\semana3\\biblioteca\\biblioteca\\presentacion\\frmtitulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\presentacion\\frmtitulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\semana3\\biblioteca\\biblioteca\\presentacion\\frmtitulosuautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\presentacion\\frmtitulosuautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\semana3\\biblioteca\\biblioteca\\presentacion\\frmtiendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -31,20 +39,36 @@
       "RelativeMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\presentacion\\frmregalias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\semana3\\biblioteca\\biblioteca\\presentacion\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\presentacion\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\semana3\\biblioteca\\biblioteca\\presentacion\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\presentacion\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\semana3\\biblioteca\\biblioteca\\presentacion\\frmeditoriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\presentacion\\frmeditoriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\semana3\\biblioteca\\biblioteca\\presentacion\\frmtitulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\presentacion\\frmtitulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\semana3\\biblioteca\\biblioteca\\presentacion\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\presentacion\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\semana3\\biblioteca\\biblioteca\\presentacion\\frmdescuentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\presentacion\\frmdescuentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\semana3\\biblioteca\\biblioteca\\presentacion\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\presentacion\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\semana3\\biblioteca\\biblioteca\\presentacion\\frmdatoseditoriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\presentacion\\frmdatoseditoriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\semana3\\biblioteca\\biblioteca\\presentacion\\frmcargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\presentacion\\frmcargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\dela\\semana3\\biblioteca\\biblioteca\\presentacion\\frmautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAFEC083-9A14-46F8-991A-5DD97198638B}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\presentacion\\frmautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,138 +78,216 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmAutores.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmAutores.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\frmAutores.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmAutores.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Biblioteca\\Presentacion\\frmAutores.cs [Dise\u00F1o]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T03:38:21.281Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmAutoresPorTitulos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmAutoresPorTitulos.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\frmAutoresPorTitulos.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmAutoresPorTitulos.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Biblioteca\\Presentacion\\frmAutoresPorTitulos.cs [Dise\u00F1o]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T03:38:20.581Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "frmConfigEditoriales.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmConfigEditoriales.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\frmConfigEditoriales.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmConfigEditoriales.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Biblioteca\\Presentacion\\frmConfigEditoriales.cs [Dise\u00F1o]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T03:38:19.631Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmVentas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmVentas.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\frmVentas.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmVentas.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Biblioteca\\Presentacion\\frmVentas.cs [Dise\u00F1o]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T03:38:18.714Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmTitulos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmTitulos.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\frmTitulos.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmTitulos.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Biblioteca\\Presentacion\\frmTitulos.cs [Dise\u00F1o]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T03:38:18.221Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmTiendas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmTiendas.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\frmTiendas.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmTiendas.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Biblioteca\\Presentacion\\frmTiendas.cs [Dise\u00F1o]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T03:38:17.599Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmRegalias.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmRegalias.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\frmRegalias.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmRegalias.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Biblioteca\\Presentacion\\frmRegalias.cs [Dise\u00F1o]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T03:38:16.992Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmEmpleados.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmEmpleados.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\frmEmpleados.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmEmpleados.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Biblioteca\\Presentacion\\frmEmpleados.cs [Dise\u00F1o]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T03:38:16.279Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "frmEditoriales.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmEditoriales.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\frmEditoriales.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmEditoriales.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Biblioteca\\Presentacion\\frmEditoriales.cs [Dise\u00F1o]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T03:38:15.641Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmDescuentos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmDescuentos.cs",
-              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\frmDescuentos.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmDescuentos.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Biblioteca\\Presentacion\\frmDescuentos.cs [Dise\u00F1o]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T03:38:14.57Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "MenuPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\MenuPrincipal.cs",
               "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\MenuPrincipal.cs",
               "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\MenuPrincipal.cs [Dise\u00F1o]",
               "RelativeToolTip": "Biblioteca\\Presentacion\\MenuPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T03:38:12.436Z",
+              "WhenOpened": "2024-12-16T21:29:00.989Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmVentas.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmVentas.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\frmVentas.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmVentas.cs",
+              "RelativeToolTip": "Biblioteca\\Presentacion\\frmVentas.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:56:33.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmTituloSuAutores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\FrmTituloSuAutores.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\FrmTituloSuAutores.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\FrmTituloSuAutores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Biblioteca\\Presentacion\\FrmTituloSuAutores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:46:25.644Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmTitulos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmTitulos.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\frmTitulos.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmTitulos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Biblioteca\\Presentacion\\frmTitulos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:45:30.978Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmVentas.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\frmVentas.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Biblioteca\\Presentacion\\frmVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:48:04.735Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmEditoriales.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmEditoriales.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\frmEditoriales.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmEditoriales.cs",
+              "RelativeToolTip": "Biblioteca\\Presentacion\\frmEditoriales.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:55:35.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmEditoriales.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmEditoriales.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\frmEditoriales.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmEditoriales.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Biblioteca\\Presentacion\\frmEditoriales.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:30:15.672Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmTiendas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmTiendas.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\frmTiendas.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmTiendas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Biblioteca\\Presentacion\\frmTiendas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:44:37.244Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmRegalias.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmRegalias.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\frmRegalias.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmRegalias.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Biblioteca\\Presentacion\\frmRegalias.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:04:57.834Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmEmpleados.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\frmEmpleados.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmEmpleados.cs",
+              "RelativeToolTip": "Biblioteca\\Presentacion\\frmEmpleados.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:54:39.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmTitulos.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmTitulos.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\frmTitulos.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmTitulos.cs",
+              "RelativeToolTip": "Biblioteca\\Presentacion\\frmTitulos.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwBoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:54:21.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmEmpleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmEmpleados.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\frmEmpleados.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmEmpleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Biblioteca\\Presentacion\\frmEmpleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:26:32.767Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\MenuPrincipal.cs",
+              "RelativeToolTip": "Biblioteca\\Presentacion\\MenuPrincipal.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAmwD8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:51:20.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmDescuentos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmDescuentos.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\frmDescuentos.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmDescuentos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Biblioteca\\Presentacion\\frmDescuentos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:28:47.764Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmDatosEditoriales.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\FrmDatosEditoriales.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\FrmDatosEditoriales.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\FrmDatosEditoriales.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Biblioteca\\Presentacion\\FrmDatosEditoriales.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:31:29.905Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmCargo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\FrmCargo.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\FrmCargo.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\FrmCargo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Biblioteca\\Presentacion\\FrmCargo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:52:57.59Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmAutores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmAutores.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Presentacion\\frmAutores.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Dela\\Semana3\\Biblioteca\\Biblioteca\\Presentacion\\frmAutores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Biblioteca\\Presentacion\\frmAutores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:53:34.424Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

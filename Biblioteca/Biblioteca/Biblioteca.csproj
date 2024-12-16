@@ -58,11 +58,11 @@
     <Compile Include="Presentacion\frmAutores.Designer.cs">
       <DependentUpon>frmAutores.cs</DependentUpon>
     </Compile>
-    <Compile Include="Presentacion\frmAutoresPorTitulos.cs">
+    <Compile Include="Presentacion\FrmTituloSuAutores.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Presentacion\frmAutoresPorTitulos.Designer.cs">
-      <DependentUpon>frmAutoresPorTitulos.cs</DependentUpon>
+    <Compile Include="Presentacion\FrmTituloSuAutores.Designer.cs">
+      <DependentUpon>FrmTituloSuAutores.cs</DependentUpon>
     </Compile>
     <Compile Include="Presentacion\frmDescuentos.cs">
       <SubType>Form</SubType>
@@ -82,11 +82,11 @@
     <Compile Include="Presentacion\frmEmpleados.Designer.cs">
       <DependentUpon>frmEmpleados.cs</DependentUpon>
     </Compile>
-    <Compile Include="Presentacion\frmConfigEditoriales.cs">
+    <Compile Include="Presentacion\FrmDatosEditoriales.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Presentacion\frmConfigEditoriales.Designer.cs">
-      <DependentUpon>frmConfigEditoriales.cs</DependentUpon>
+    <Compile Include="Presentacion\FrmDatosEditoriales.Designer.cs">
+      <DependentUpon>FrmDatosEditoriales.cs</DependentUpon>
     </Compile>
     <Compile Include="Presentacion\frmRegalias.cs">
       <SubType>Form</SubType>
@@ -94,11 +94,11 @@
     <Compile Include="Presentacion\frmRegalias.Designer.cs">
       <DependentUpon>frmRegalias.cs</DependentUpon>
     </Compile>
-    <Compile Include="Presentacion\frmTrabajoDatos.cs">
+    <Compile Include="Presentacion\FrmCargo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Presentacion\frmTrabajoDatos.Designer.cs">
-      <DependentUpon>frmTrabajoDatos.cs</DependentUpon>
+    <Compile Include="Presentacion\FrmCargo.Designer.cs">
+      <DependentUpon>FrmCargo.cs</DependentUpon>
     </Compile>
     <Compile Include="Presentacion\frmTiendas.cs">
       <SubType>Form</SubType>
@@ -123,8 +123,8 @@
     <EmbeddedResource Include="Presentacion\frmAutores.resx">
       <DependentUpon>frmAutores.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Presentacion\frmAutoresPorTitulos.resx">
-      <DependentUpon>frmAutoresPorTitulos.cs</DependentUpon>
+    <EmbeddedResource Include="Presentacion\FrmTituloSuAutores.resx">
+      <DependentUpon>FrmTituloSuAutores.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\frmDescuentos.resx">
       <DependentUpon>frmDescuentos.cs</DependentUpon>
@@ -135,14 +135,14 @@
     <EmbeddedResource Include="Presentacion\frmEmpleados.resx">
       <DependentUpon>frmEmpleados.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Presentacion\frmConfigEditoriales.resx">
-      <DependentUpon>frmConfigEditoriales.cs</DependentUpon>
+    <EmbeddedResource Include="Presentacion\FrmDatosEditoriales.resx">
+      <DependentUpon>FrmDatosEditoriales.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\frmRegalias.resx">
       <DependentUpon>frmRegalias.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Presentacion\frmTrabajoDatos.resx">
-      <DependentUpon>frmTrabajoDatos.cs</DependentUpon>
+    <EmbeddedResource Include="Presentacion\FrmCargo.resx">
+      <DependentUpon>FrmCargo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\frmTiendas.resx">
       <DependentUpon>frmTiendas.cs</DependentUpon>
@@ -152,6 +152,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Presentacion\frmVentas.resx">
       <DependentUpon>frmVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

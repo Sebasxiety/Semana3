@@ -25,5 +25,10 @@ namespace Publicaciones.Presentacion
         private void cmbCiudades_SelectedIndexChanged(object sender, EventArgs e)
         {
                     }
+
+        private void btnRegalias_Click(object sender, EventArgs e)
+        {
+            new frmRegalias().ShowDialog();
+        }
     }
 }
